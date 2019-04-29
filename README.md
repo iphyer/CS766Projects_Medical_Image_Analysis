@@ -6,7 +6,7 @@ Yiqin Pan, Zhiyi Chen, Mingren Shen
 ## Table of Content
 ### 1. Proposal
 
-![Project Pipeline](project_structure.jpg)
+![Project Pipeline](Archive/project_structure.jpg)
 
 #### Motivation:
 Arteriograms are the X-ray images for arteries in the heart, brain and other parts of the body by injecting a special dye into the arteries to enhance the blood vessel. And in real-world practice, radiologists are required to identify the bleeding sites in the image to provide information for future medical intervention. However, analyzing those image results requires manual inspection and discussion of experience radiologists which is slow, labor-intensive and error-prone. So we want to use deep learning based object detection methods to help identify those bleeding sites. 
