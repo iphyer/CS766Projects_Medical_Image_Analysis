@@ -7,12 +7,11 @@ Yiqin Pan, Zhiyi Chen, Mingren Shen
 
 We provide codes we use for three different models we used for this projects.
 
-| Models        |      Framework     |       Weights           | -                                                     |
-| ---------------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------:| --------------------------------------------------------------:|
-| English-French   | [Model](https://dl.fbaipublicfiles.com/XLM/mlm_enfr_1024.pth)       | [BPE codes](https://dl.fbaipublicfiles.com/XLM/codes_enfr)    | [Vocabulary](https://dl.fbaipublicfiles.com/XLM/vocab_enfr)    |
-| English-German   | [Model](https://dl.fbaipublicfiles.com/XLM/mlm_ende_1024.pth)       | [BPE codes](https://dl.fbaipublicfiles.com/XLM/codes_ende)    | [Vocabulary](https://dl.fbaipublicfiles.com/XLM/vocab_ende)    |
-| English-Romanian | [Model](https://dl.fbaipublicfiles.com/XLM/mlm_enro_1024.pth)       | [BPE codes](https://dl.fbaipublicfiles.com/XLM/codes_enro)    | [Vocabulary](https://dl.fbaipublicfiles.com/XLM/vocab_enro)    |
-| XNLI-15          | [Model](https://dl.fbaipublicfiles.com/XLM/mlm_tlm_xnli15_1024.pth) | [BPE codes](https://dl.fbaipublicfiles.com/XLM/codes_xnli_15) | [Vocabulary](https://dl.fbaipublicfiles.com/XLM/vocab_xnli_15) |
+| Models        |      Framework     |       Weights           | 
+| ---------------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------:| 
+| Faster R-CNN   |   [ChainerCV](https://github.com/chainer/chainercv)   | [Weights]   |
+| SSD   | [Keras](https://keras.io/) + [TensorFlow](https://www.tensorflow.org/)    | [BPE codes]    | 
+| YOLO | [Keras](https://keras.io/) + [TensorFlow](https://www.tensorflow.org/)        | [BPE codes]    | 
 
 ### 1. Proposal
 
