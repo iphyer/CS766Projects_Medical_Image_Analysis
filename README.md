@@ -10,10 +10,12 @@ We provide codes we use for three different models we used for this projects.
 | Models        |      Framework     |       Weights           | 
 | ---------------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------:| 
 | Faster R-CNN   |   [ChainerCV](https://github.com/chainer/chainercv/tree/master/examples/faster_rcnn)   | [Weights](https://drive.google.com/a/wisc.edu/file/d/1nLUmV_aFQP74gn6lGTJ2byojG5rD7OIx/view?usp=sharing)   |
-| SSD   | [Keras + TensorFlow](https://github.com/qqwweee/keras-yolo3)    | [Weights]()    | 
+| SSD   | [Keras + TensorFlow](https://github.com/qqwweee/keras-yolo3)    | [Weights](https://drive.google.com/a/wisc.edu/file/d/1TqsYJCWyrOGUtnqnIf82UWdeagtz--v6/view?usp=sharing)    | 
 | YOLO | [Keras + TensorFlow](https://github.com/pierluigiferrari/ssd_keras)        | [Weights]()     | 
 
 We also provide a submitting scripts to train those models on Euler of UW-Madison. All 3 models are trained with GTX 1080 GPU. Please follow the specific instructions listed there.
+
+Due to data privacy concenrn, data is provided only for Prof.Mohit Gupta and TA.
 
 ## Project Proposal
 
