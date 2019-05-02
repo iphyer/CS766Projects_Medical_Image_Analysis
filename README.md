@@ -3,6 +3,8 @@ CS766  Projects Medical Image Analysis
 
 Yiqin Pan, Zhiyi Chen, Mingren Shen
 
+[Project Website](https://sites.google.com/wisc.edu/cs766-spring2019-bleedingsite/home)
+
 ## Models
 
 We provide codes we use for three different models we used for this projects.
@@ -34,3 +36,5 @@ So we plan to borrow the idea of [ensemble learning](https://en.wikipedia.org/wi
 ## Results
 
 ### Project Presentation
+
+We provide our final project presenation in our project website, [Project Presenation](https://sites.google.com/wisc.edu/cs766-spring2019-bleedingsite/home/final-presentation)

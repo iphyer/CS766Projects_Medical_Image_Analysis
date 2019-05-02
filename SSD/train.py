@@ -37,8 +37,8 @@ aspect_ratios = [[1.0, 2.0, 0.5],
                  [1.0, 2.0, 0.5, 3.0, 1.0/3.0],
                  [1.0, 2.0, 0.5, 3.0, 1.0/3.0],
                  [1.0, 2.0, 0.5, 3.0, 1.0/3.0],
-		 [1.0, 2.0, 0.5, 3.0, 1.0/3.0],                 
-		 [1.0, 2.0, 0.5],
+		         [1.0, 2.0, 0.5, 3.0, 1.0/3.0],                 
+		         [1.0, 2.0, 0.5],
                  [1.0, 2.0, 0.5]] # The anchor box aspect ratios used in the original SSD512; the order matters
 two_boxes_for_ar1 = True
 steps = [8, 16, 32, 64, 128, 256, 512] # The space between two adjacent anchor box center points for each predictor layer.
